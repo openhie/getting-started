@@ -1,7 +1,5 @@
 # What is OpenHIE?
 
-
-
 ## Introduction
 
 ### **OpenHIE Getting Started Guide**
