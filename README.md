@@ -1,4 +1,4 @@
-# THIS IS A WORK IN PROGRESS
+# Introduction
 
 ## **OpenHIE Getting Started Guide**
 
@@ -10,7 +10,7 @@ OpenHIE is more than a set of technical specifications. It is also a collaborati
 
 **Resources and Examples:** [OpenHIE Academy](https://academy.ohie.org/), [OpenHIE Website](https://ohie.org/), [OpenHIE Architecture Specification](https://ohie.org/framework/)
 
- **How to Use this Guide**
+**How to Use this Guide**
 
 This guide is designed to help the eHealth leaders, implementers and technologists get started with health information exchange. Over the past few years we have observed that some implementers choose to start with a specific OpenHIE component like a facility registry. Other implementers choose to start with a health exchange project that allows for sharing of health data. While a third group started at a more foundational level like doing an eHealth Architecture project. Each of these starting points has benefits and challenges. Ultimately, all three levels; the components, the data exchange projects and the architecture are needed to benefit fully from health information exchange.
 
@@ -82,7 +82,7 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Phase 1 - <a href>Governance, Value, and Scope</a>
+      <th style="text-align:left">Phase 1 - <a href="./">Governance, Value, and Scope</a>
       </th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -100,25 +100,25 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
       <td style="text-align:left">People</td>
       <td style="text-align:left">
         <ul>
-          <li><a href>Identify Stakeholders</a>
+          <li><a href="./">Identify Stakeholders</a>
           </li>
-          <li><a href>Determine and Document Roles and Responsibilities</a>
-          </li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li><a href>Identify Stakeholders</a>
-          </li>
-          <li><a href>Determine and Document Roles and Responsibilities</a>
+          <li><a href="./">Determine and Document Roles and Responsibilities</a>
           </li>
         </ul>
       </td>
       <td style="text-align:left">
         <ul>
-          <li><a href>Identify Stakeholders</a>
+          <li><a href="./">Identify Stakeholders</a>
           </li>
-          <li><a href>Determine and Document Roles and Responsibilities</a>
+          <li><a href="./">Determine and Document Roles and Responsibilities</a>
+          </li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><a href="./">Identify Stakeholders</a>
+          </li>
+          <li><a href="./">Determine and Document Roles and Responsibilities</a>
           </li>
         </ul>
       </td>
@@ -127,28 +127,28 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
       <td style="text-align:left">Process</td>
       <td style="text-align:left">
         <ul>
-          <li><a href>Determine</a>  <a href>Project Scope</a>
+          <li><a href="./">Determine</a>  <a href="./">Project Scope</a>
           </li>
-          <li><a href>Document the Expected Value of the Project</a>
+          <li><a href="./">Document the Expected Value of the Project</a>
           </li>
-          <li><a href>Establish a Project plan</a>
+          <li><a href="./">Establish a Project plan</a>
           </li>
         </ul>
       </td>
       <td style="text-align:left">
         <ul>
-          <li><a href>Determine Project Scope</a>
+          <li><a href="./">Determine Project Scope</a>
           </li>
-          <li><a href>Document the Expected Value of the Project</a>
+          <li><a href="./">Document the Expected Value of the Project</a>
           </li>
-          <li><a href>Establish a Project plan</a>
+          <li><a href="./">Establish a Project plan</a>
           </li>
         </ul>
       </td>
       <td style="text-align:left">
         <ul>
           <li>Scope</li>
-          <li><a href>Define Value of Health System Architecture</a>
+          <li><a href="./">Define Value of Health System Architecture</a>
           </li>
         </ul>
       </td>
@@ -167,7 +167,7 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
             <ul>
               <li>
                 <ul>
-                  <li><a href>Establish Training Program</a><a href>s</a>
+                  <li><a href="./">Establish Training Program</a><a href="./">s</a>
                   </li>
                 </ul>
               </li>
@@ -181,7 +181,7 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
             <ul>
               <li>
                 <ul>
-                  <li><a href>Establish Training Programs</a>
+                  <li><a href="./">Establish Training Programs</a>
                   </li>
                 </ul>
               </li>
@@ -199,29 +199,29 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
             <ul>
               <li>
                 <ul>
-                  <li><a href>Determine</a>  <a href>Resources and Identify Constraints and Environmental Factors</a>
+                  <li><a href="./">Determine</a>  <a href="./">Resources and Identify Constraints and Environmental Factors</a>
                   </li>
                 </ul>
               </li>
             </ul>
           </li>
-          <li><a href>Analyze the Environment and Context</a>
+          <li><a href="./">Analyze the Environment and Context</a>
             <ul>
               <li>
                 <ul>
-                  <li><a href>Identify System</a>  <a href>Constraints</a>
+                  <li><a href="./">Identify System</a>  <a href="./">Constraints</a>
                   </li>
-                  <li><a href>Document Requirements</a>
+                  <li><a href="./">Document Requirements</a>
                   </li>
                 </ul>
               </li>
             </ul>
           </li>
-          <li><a href>Select Software/Component(s)</a>
+          <li><a href="./">Select Software/Component(s)</a>
             <ul>
               <li>
                 <ul>
-                  <li><a href>Testing</a>
+                  <li><a href="./">Testing</a>
                   </li>
                 </ul>
               </li>
@@ -235,13 +235,13 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
             <ul>
               <li>
                 <ul>
-                  <li><a href>Determine Resources and Identify Constraints and Environmental Factors</a>
+                  <li><a href="./">Determine Resources and Identify Constraints and Environmental Factors</a>
                   </li>
-                  <li><a href>Identify System</a>  <a href>Constraints</a>
+                  <li><a href="./">Identify System</a>  <a href="./">Constraints</a>
                   </li>
-                  <li><a href>Document Requirements</a>
+                  <li><a href="./">Document Requirements</a>
                   </li>
-                  <li><a href>Testing</a>
+                  <li><a href="./">Testing</a>
                   </li>
                 </ul>
               </li>
@@ -252,7 +252,7 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Phase 3 - <a href>Implement, Support, and Scale</a>
+      <td style="text-align:left">Phase 3 - <a href="./">Implement, Support, and Scale</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -271,7 +271,7 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
     </tr>
     <tr>
       <td style="text-align:left">Process</td>
-      <td style="text-align:left"><a href>Communication and Roll Out</a>
+      <td style="text-align:left"><a href="./">Communication and Roll Out</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -281,7 +281,7 @@ STEP 3 - Begin thinking about the people and process aspects of your technology 
 
 [**What is OpenHIE?**](https://docs.google.com/document/d/1KaUPHQRiZ9hQ59Irp56oKayvVZbkWngTYkl2AZdafhw/edit)
 
- OpenHIE is a self-organizing, mission-driven community of stakeholders assisting the strengthening of national Health Information Exchanges \(HIEs\) to support access to data by a Health Information System \(HIS\). The initiative emerged from the Health Informatics Public Private Partnership initiative funded by the US President’s Emergency Plan for AIDS Relief \(PEPFAR\).
+OpenHIE is a self-organizing, mission-driven community of stakeholders assisting the strengthening of national Health Information Exchanges \(HIEs\) to support access to data by a Health Information System \(HIS\). The initiative emerged from the Health Informatics Public Private Partnership initiative funded by the US President’s Emergency Plan for AIDS Relief \(PEPFAR\).
 
 OpenHIE is more than a set of technical specifications. It is also a collaborative community of practice. This community includes ministry of health personnel, funders, enterprise architects, solution designers, software engineers, implementers and health system managers. OpenHIE was created on the belief that integrated and interoperable health information systems are critical to improve the quality and continuity of healthcare.
 
@@ -294,9 +294,9 @@ This guide is designed to help you think through the process of starting at one 
 Use this guide to start at a specific level and keep in mind the other levels of value that will need to be achieved as you move toward supporting health information exchange.
 
 1. Identify roles that need to engage
-2.  Identify where you are and what type of project you’re doing?
+2. Identify where you are and what type of project you’re doing?
 
-###  Start-up \(Governance, Value, and Scope\)
+### Start-up \(Governance, Value, and Scope\)
 
 #### **People: Identify Stakeholders**
 
@@ -439,7 +439,7 @@ It is important to document the value that one expects from component, health ex
 
 When possible, setting up measurable expectations are best. The following are examples of the qualitative value and descriptions of potential measures that might help guide you in thinkinging about the value of your project.
 
- In a pilot project, it may be appropriate to document that some of the value may be learning or proving how technology might work in your particular context. However, it is best to make sure that there is some health system value to the project as well. The value can be articulated in costs, but many health projects will provide more qualitative value.
+In a pilot project, it may be appropriate to document that some of the value may be learning or proving how technology might work in your particular context. However, it is best to make sure that there is some health system value to the project as well. The value can be articulated in costs, but many health projects will provide more qualitative value.
 
 #### Examples of potential learning from projects:
 
@@ -541,8 +541,6 @@ _Component Project_
 
 _Data Exchange Project_
 
-### 
-
 To begin the requirements and design process, start by analyzing the current environment.
 
 Seek to answer the following:
@@ -641,8 +639,7 @@ You’ll want to think about the following when looking at the available tools:
 
 * 1. Ability to support the platforms that the tool runs on
   2. Ability to support and deploy the tool
-
-1. We recommend documenting your process and results so that you can communicate the reasoning for the decision.
+* We recommend documenting your process and results so that you can communicate the reasoning for the decision.
 
 REsources
 
@@ -717,20 +714,19 @@ _Data Exchange Project_
 
 **Software Validation and Testing**
 
-There are many components required to validate and test software that is used to manage healthcare records.  Some ministries of health like the United States FDA have specific guidance documents that need to be followed to ensure that healthcare software has been appropriately validated and tested and that electronic records requirements are being met.  The purpose of this section is not to detail good software validation practices, but to _highlight_ specific testing considerations for health software.    
+There are many components required to validate and test software that is used to manage healthcare records. Some ministries of health like the United States FDA have specific guidance documents that need to be followed to ensure that healthcare software has been appropriately validated and tested and that electronic records requirements are being met. The purpose of this section is not to detail good software validation practices, but to _highlight_ specific testing considerations for health software.
 
 **Workflow Testing \(Integration Testing\)**
 
-You will need to test to ensure that any components sharing data with other components appropriately integrate with the Interoperability Layer and each of the point-of-care systems or other systems that will provide or receive data.  One approach for this testing could be to test various iterations of each workflow\(data exchange\) that will be used between each of the various components involved.  This testing would then be repeated for each system that is in scope.   This approach paired with an approach that goes through the whole health care process is recommended.
+You will need to test to ensure that any components sharing data with other components appropriately integrate with the Interoperability Layer and each of the point-of-care systems or other systems that will provide or receive data. One approach for this testing could be to test various iterations of each workflow\(data exchange\) that will be used between each of the various components involved. This testing would then be repeated for each system that is in scope. This approach paired with an approach that goes through the whole health care process is recommended.
 
 **Performance and Load Testing**
 
-There are two aspects of performance testing that will need to be addressed.  First is transaction through-put.  This can be tested by estimating the number of transactions \(data exchanges\) that will be expected during peak business times and ensuring that the network and hardware can support this volume of transactions.
+There are two aspects of performance testing that will need to be addressed. First is transaction through-put. This can be tested by estimating the number of transactions \(data exchanges\) that will be expected during peak business times and ensuring that the network and hardware can support this volume of transactions.
 
- **Example:**  [Rwanda Client Registry Implementation](http://www.openempi.org/confluence/display/openempi30/Performance+Requirements+Specification) \(Link requires credentials?\)
+**Example:** [Rwanda Client Registry Implementation](http://www.openempi.org/confluence/display/openempi30/Performance+Requirements+Specification) \(Link requires credentials?\)
 
-  
-The second aspect of testing that needs to be considered is ensuring that the registry is configured to support the number of records required to be stored in the component at its peak usage for the given scope.  For component systems such as the client registry, facility registry and other OHIE components, hardware, databases, matching algorithms and key system functions will need to be tested to ensure that they are appropriately configured and tuned to handle the estimated number of records expected in the next two or three years.
+The second aspect of testing that needs to be considered is ensuring that the registry is configured to support the number of records required to be stored in the component at its peak usage for the given scope. For component systems such as the client registry, facility registry and other OHIE components, hardware, databases, matching algorithms and key system functions will need to be tested to ensure that they are appropriately configured and tuned to handle the estimated number of records expected in the next two or three years.
 
 **User Testing**
 
@@ -738,7 +734,7 @@ A key component of the agile process initiated will be to conduct routine field 
 
 **Example:** [User Testing Guide](https://docs.google.com/document/d/1ZGqn_0XJYdzZLTE25sUjQEkeosM5lSV5xJ0GsmAjGzU/edit?usp=sharing) **\(checked\)**
 
- **Resource:** [INVEST in Good Stories, and SMART Tasks](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) **\(checked\)**
+**Resource:** [INVEST in Good Stories, and SMART Tasks](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) **\(checked\)**
 
 **Resource:** [Examples of Rwanda User Stories for RHIE](https://wiki.ohie.org/download/attachments/10486056/RHEA%20storyboard%20%284%29.pptx?version=1&modificationDate=1386949763329&api=v2)
 
@@ -746,8 +742,7 @@ A key component of the agile process initiated will be to conduct routine field 
 
 _Component Project_
 
-_Data Exchange Project_  
-
+_Data Exchange Project_
 
 We recommend identifying training needs and establishing a training plan. When considering training needs, look at data creation and use activities as well as systems support. Consider the following:
 
@@ -784,15 +779,15 @@ _Component Project_
 
 _Data Exchange Project_
 
-It should be expected that requirements and requests for OHIE components and data exchanges between them will evolve over time.  For this reason support strategies should be developed and should remain in place to triage requests for data, system enhancements, integrations, operations support or general troubleshooting among users.  Common types of ongoing support are described below.  
+It should be expected that requirements and requests for OHIE components and data exchanges between them will evolve over time. For this reason support strategies should be developed and should remain in place to triage requests for data, system enhancements, integrations, operations support or general troubleshooting among users. Common types of ongoing support are described below.
 
 ### **Operations Support**
 
-Operations support is intended to maintain the logistics and infrastructure required for each of the components.  The content owner, infrastructure owner and software owners \(see Establish Owners and SMEs\) will need to support the system.  This support includes: monitoring error logs, maintaining a server, ensuring security protocols, carry out backups, and software and hardware updates as needed.
+Operations support is intended to maintain the logistics and infrastructure required for each of the components. The content owner, infrastructure owner and software owners \(see Establish Owners and SMEs\) will need to support the system. This support includes: monitoring error logs, maintaining a server, ensuring security protocols, carry out backups, and software and hardware updates as needed.
 
 ### **Developer Support**
 
-Developer support is important to facilitate any future adaptations of the OHIE components and data exchanges.  For instance it may be desirable to create a specialized data curation function, additional workflows \(data exchanges\), or other applications that would work in coordination with the registry or components in a service oriented fashion.  Developer support will also include the identification, documentation and resolution of any enhancement requests or software bugs.
+Developer support is important to facilitate any future adaptations of the OHIE components and data exchanges. For instance it may be desirable to create a specialized data curation function, additional workflows \(data exchanges\), or other applications that would work in coordination with the registry or components in a service oriented fashion. Developer support will also include the identification, documentation and resolution of any enhancement requests or software bugs.
 
 [Github: Reference Implementation Issues](https://github.com/facilityregistry/reference_implementation/issues?direction=desc&sort=updated&state=open)
 
@@ -806,7 +801,7 @@ Ongoing support will also require assistance for issues related to data collecti
 
 **Help Desk Support**
 
-Help desk support may not be required initially, but as more users and organizations start using the client registry it may become important to identify, document, triage and direct response to types of requests from the varied types of users.  
+Help desk support may not be required initially, but as more users and organizations start using the client registry it may become important to identify, document, triage and direct response to types of requests from the varied types of users.
 
 ### **Capacity development and Training**
 
@@ -837,7 +832,7 @@ Job Aids
 * **OHIE Example:** [Github - Reference Implementations](https://github.com/facilityregistry/reference_implementation/issues?direction=desc&sort=updated&state=open); [Github - UCC Curation Tool](https://github.com/MichaelKambenga/ihfr_curation)
 * **Rwanda Example:** [Rwanda Client Registry Implementation](http://www.openempi.org/confluence/display/openempi30/Performance+Requirements+Specification)
 * **Job aid:** [User Testing Guide](https://docs.google.com/document/d/1ZGqn_0XJYdzZLTE25sUjQEkeosM5lSV5xJ0GsmAjGzU/edit?usp=sharing)
-*  **Resource:** [INVEST in Good Stories, and SMART Tasks](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
+* **Resource:** [INVEST in Good Stories, and SMART Tasks](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
 * **Resource:** [Examples of Rwanda User Stories for RHIE](https://wiki.ohie.org/download/attachments/10486056/RHEA%20storyboard%20%284%29.pptx?version=1&modificationDate=1386949763329&api=v2) [http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
 
 Examples of Applicable Standards
