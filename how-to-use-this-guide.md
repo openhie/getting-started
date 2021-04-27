@@ -22,6 +22,5 @@ Identify the phase of the project you are in.  If you are just beginning, start 
 
 ### Step 3
 
-Begin thinking about the people and process aspects of your technology project.   
-
+Begin thinking about the people and process aspects of your technology project. 
 
