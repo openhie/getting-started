@@ -6,7 +6,7 @@
 
 ## 1. Start-up \(Governance, Value, and Scope\)
 
-* [Untitled](1.-start-up-governance-value-and-scope/untitled.md)
+* [People: Identify Stakeholders](1.-start-up-governance-value-and-scope/untitled.md)
 
 ## 2. Requirements and Design
 
