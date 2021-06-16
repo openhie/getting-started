@@ -2,7 +2,7 @@
 description: test test
 ---
 
-# Introduction
+# Getting Started Guide: Paths to Data Exchange
 
 This documentation is a work in progress. Please do not use in its current state.
 
