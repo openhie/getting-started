@@ -39,6 +39,6 @@
     * [Establish Standards](pathway-2-architecture/phase-2-requirements-and-design/establish-processes.md)
   * [Pathway 2.3 -  Implement, Support, and Scale](pathway-2-architecture/phase-3-implement-support-and-scale/README.md)
     * [Communication and Roll Out](pathway-2-architecture/phase-3-implement-support-and-scale/communication-and-roll-out.md)
-* [How to Provide Feedback / Input \(to be Drafted\)](how-to-provide-feedback-input.md)
+* [How to Provide Feedback / Input](how-to-provide-feedback-input.md)
 * [Change Log](change-log.md)
 

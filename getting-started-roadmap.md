@@ -73,7 +73,7 @@ Identify the type of project\(s\) that you are working on and click on the appro
     </tr>
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;
-        <img src=".gitbook/assets/cubes.svg" alt/> <a href="pathway-2-architecture/untitled/"><b>Architecture  Project</b></a><b> </b>
+        <img src=".gitbook/assets/cubes (1).svg" alt/> <a href="pathway-2-architecture/untitled/"><b>Architecture  Project</b></a><b> </b>
       </td>
       <td style="text-align:left">
         <ul>
