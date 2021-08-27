@@ -41,7 +41,7 @@ Identify the type of project\(s\) that you are working on and click on the appro
         </ul>
       </td>
       <td style="text-align:left">
-        <p><a href="pathway-1-component-and-data-exchange/">Pathway 1 </a>
+        <p><a href="pathway-1-component-and-data-exchange/">Pathway 1</a>
         </p>
         <p></p>
       </td>
